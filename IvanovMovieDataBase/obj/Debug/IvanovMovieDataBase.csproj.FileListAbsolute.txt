@@ -1,0 +1,66 @@
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\snappy32.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\snappy64.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\libzstd.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\mongocrypt.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\IvanovMovieDataBase.exe.config
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\IvanovMovieDataBase.exe
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\IvanovMovieDataBase.pdb
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\DnsClient.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Bson.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Driver.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\SharpCompress.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\System.Buffers.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\DnsClient.xml
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Bson.xml
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Driver.xml
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\System.Buffers.xml
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.csprojAssemblyReference.cache
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.Properties.Resources.resources
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.csproj.GenerateResource.cache
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.csproj.CopyComplete
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.exe
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.pdb
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.AddMovieForm.resources
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.MainForm.resources
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.MovieReviewForm.resources
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.UpdateMovieForm.resources
+C:\Users\Komp\source\repos\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.AddDirectorForm.resources
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\snappy32.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\snappy64.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\libzstd.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\mongocrypt.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\IvanovMovieDataBase.exe.config
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\IvanovMovieDataBase.exe
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\IvanovMovieDataBase.pdb
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\DnsClient.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Bson.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Driver.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\SharpCompress.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\System.Buffers.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\DnsClient.xml
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Bson.xml
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Driver.xml
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\System.Buffers.xml
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.csprojAssemblyReference.cache
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.AddDirectorForm.resources
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.AddMovieForm.resources
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.MainForm.resources
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.MovieReviewForm.resources
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.Properties.Resources.resources
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.UpdateMovieForm.resources
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.csproj.GenerateResource.cache
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.csproj.CopyComplete
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.exe
+C:\Users\Komp\Google Drive\Faks\Diplomski\4. Semestar\Relacijske i nerelacijske baze\IvanovMovieDataBase\IvanovMovieDataBase\obj\Debug\IvanovMovieDataBase.pdb
